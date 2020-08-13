@@ -1,13 +1,9 @@
 # play-store
-Proyek ini berjudul "The Android App Market on Google Play", merupakan salah satu Premium Project dalam Data Scientist Career Track oleh DataCamp.
-Proyek ini menggunakan data scrapping dari Google Play sehingga diperoleh kurang lebih data 10.000 aplikasi di Google Play.
-Proyek ini akan memberikan pandangan bagaimana perilaku aplikasi-aplikasi tersebut di Google Play, dan bagaimana dampaknya pada developer.
-Setelah mengulik dan membersihkan data, dapat diperoleh kesimpulan:
-- Kategori yang mendominasi di Google Play.
-- Berapa rata-rata peringkat aplikasi-aplikasi tersebut.
-- Bagaimana pengaruh ukuran aplikasi dan harga terhadap peringkat.
-- Apakah pengguna lebih memilih aplikasi gratis / ukuran ringan dibandingkan dengan berbayar / ukuran besar.
-- Bagaimana strategi pemilihan harga yang paling baik.
-- Skor polaritas sentimen pada aplikasi gratis dan berbayar.
+This project uses data scrapping from Google Play to obtain approximately 10,000 data applications on Google Play. This project will provide an overview of how the applications behave on Google Play, and how they will impact developers. After examining and cleaning up the data, a conclusion can be drawn:
 
-File dalam Jupyter Notebook tersedia di halaman utama. Data yang diperlukan tersedia dalam folder datasets.
+- Categories that dominate on Google Play.
+- What is the average ranking of the applications.
+- How the size of the application and price affect the ranking.
+- Do users prefer free / lightweight applications compared to paid / large sizes.
+- What is the best pricing strategy.
+- Sentiment polarity scores on free and paid applications.
